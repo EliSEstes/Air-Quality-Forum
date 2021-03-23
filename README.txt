@@ -1,4 +1,4 @@
-Before you can do anything with the prohect site, you need to download the Django framework and the Python language.
+Before you can do anything with the project site, you need to download the Django framework and the Python language.
 
 You can do both of these by going to: https://docs.djangoproject.com/en/3.1/topics/install/
 
